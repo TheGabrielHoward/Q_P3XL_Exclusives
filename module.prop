@@ -1,0 +1,8 @@
+id=PieGSIExclusivesCrosshatch
+name=GSI - Pixel 3XL Exclusives
+version=v3.0.2
+versionCode=302
+author=GabrielHoward, Joey Huab
+description=Pixel 3 XL exclusive apps and files for GSIs to enable Pixel 3 exclusive features.
+minMagisk=17000
+

@@ -1,0 +1,24 @@
+ro.product.model=Pixel 3 XL
+ro.product.brand=google
+ro.product.name=crosshatch
+ro.product.device=crosshatch
+ro.product.manufacturer=Google
+ro.build.product=crosshatch
+
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 3 XL
+ro.product.vendor.brand=google
+ro.product.vendor.name=crosshatch
+ro.product.vendor.device=crosshatch
+
+persist.audio.vr.enable=true
+ro.boot.vendor.overlay.theme=com.google.android.theme.pixel
+ro.config.ringtone=The_big_adventure.ogg
+ro.config.notification_sound=Popcorn.ogg
+ro.config.alarm_alert=Bright_morning.ogg
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.com.google.clientidbase=android-google
+
+dalvik.vm.isa.arm64.variant=cortex-a53
+dalvik.vm.isa.arm.variant=cortex-a53
