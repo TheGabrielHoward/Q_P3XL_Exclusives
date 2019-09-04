@@ -20,6 +20,9 @@ With this module you will get:
 - More
 
 ### Changelog
+**v5**
+- Merged P3XL QP1A
+- Should fix VR
 
 **v4**
 - Merged QPP6 Pixel 3XL build.prop
