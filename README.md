@@ -1,4 +1,4 @@
-# [QPP6] GSI Pixel 3 XL Exclusives
+# [QP1A] GSI Pixel 3 XL Exclusives
 
 Pixel 3 XL exclusive apps and files for GSIs to enable Pixel 3 exclusive features.
 
