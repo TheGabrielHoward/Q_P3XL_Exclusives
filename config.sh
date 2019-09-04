@@ -41,9 +41,9 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "************************************"
-  ui_print "    QPP6 - Pixel 3 XL Exclusives    "
-  ui_print "                  v4                "
-  ui_print "    by GabrielHoward & Joey Huab    "
+  ui_print "    QP1A - Pixel 3 XL Exclusives    "
+  ui_print "                  v5                "
+  ui_print "           by GabrielHoward         "
   ui_print "************************************"
 }
 
